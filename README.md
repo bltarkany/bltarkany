@@ -3,8 +3,7 @@
 <h3 align="center"><em>Thanks for stopping by! 👋</em></h3>
 
 <p align="center">
-<a href='https://www.linkedin.com/in/bobbi-tarkany/'><img src='https://img.shields.io/badge/bltarkany-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbobbi-tarkany%2F
-'></a>
+<a href='https://www.linkedin.com/in/bobbi-tarkany/'><img src='![Static Badge](https://img.shields.io/badge/LinkedIn-blue)'></a>
 </p>
 
 <h1 align="center"><em>Bobbi Tarkany</em></h1>
