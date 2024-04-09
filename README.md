@@ -2,6 +2,11 @@
 
 <h3 align="center"><em>Thanks for stopping by! 👋</em></h3>
 
+<p align="center">
+<a href='https://www.linkedin.com/in/bobbi-tarkany/'><img src='https://img.shields.io/badge/bltarkany-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbobbi-tarkany%2F
+'></a>
+</p>
+
 <h1 align="center"><em>Bobbi Tarkany</em></h1>
 
 <!-- <p align="center" style="font-family:'Kalam',cursive;font-weight:300;font-style: normal;font-size:26px;">Full Stack Web Developer, React Engineer, and Data Enthusiast 🔭</p> -->
