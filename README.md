@@ -2,10 +2,6 @@
 
 <h3 align="center"><em>Thanks for stopping by! 👋</em></h3>
 
-<p align="center">
-<a href='https://www.linkedin.com/in/bobbi-tarkany/'><img src='![Static Badge](https://img.shields.io/badge/LinkedIn-blue)'></a>
-</p>
-
 <h1 align="center"><em>Bobbi Tarkany</em></h1>
 
 <!-- <p align="center" style="font-family:'Kalam',cursive;font-weight:300;font-style: normal;font-size:26px;">Full Stack Web Developer, React Engineer, and Data Enthusiast 🔭</p> -->
@@ -34,6 +30,8 @@ Here are some ideas to get you started:
 ✨ -->
 
 ## Bio
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/bobbi-tarkany/)
 
 ```javascript
 class Bobbi {
