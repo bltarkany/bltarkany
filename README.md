@@ -40,12 +40,12 @@ class Bobbi {
     this.needsCoffee = true;
     this.languages = [Javascript, Typescript, Python('in-progress'), HTML, CSS];
     this.frameworks = [React, Vue]
-    this.databases = [Postgres, MySql, MongoDB];
+    this.databases = [Postgres, MySQL, MongoDB];
     this.environments = [Node];
-    this.libraries = [Express, Redux, Graphql, Apollo Server/Client, Axios, ];
+    this.libraries = [Express, Redux, Graphql, Apollo Server/Client, Axios];
     this.cssLibraries = [Tailwind, Material UI, Bootstrap];
     this.terminals = [Git, Ubuntu];
-    this.tools = [Github, Gitlab, Bitbucket, VSCode, ];
+    this.tools = [Github, Gitlab, Bitbucket, VSCode];
   };
 
   giveCoffee(newCoffee){
@@ -54,7 +54,7 @@ class Bobbi {
 
   coffeeSupply(){
     if(this.coffee === null){
-        return `Yes, please`;
+        return `Yes, please!`;
     }
     return `No, thank you`;
   };
