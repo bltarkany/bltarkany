@@ -4,6 +4,8 @@
 
 # I'm Bobbi
 
+<p align="center">Bobbi Tarkany</p>
+
 <!--
 **bltarkany/bltarkany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
