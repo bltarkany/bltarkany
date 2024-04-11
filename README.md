@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://kit.fontawesome.com/92729ea461.css" crossorigin="anonymous">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kalam:wght@300;400;700&family=Kaushan+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Kaushan+Script&display=swap" rel="stylesheet">
 
-<p align="center" style="font-family:'Kalam',cursive;font-weight:300;font-style: normal;font-size:26px;">Thanks for stopping by! 👋</p>
+<h3 align="center" style="font-family:'Kalam',cursive;font-weight:300;font-style: normal;font-size:26px;">Thanks for stopping by! 👋</h3>
 
-<p align="center" style="font-family:'Kalam',cursive;font-weight:400;font-style: normal;font-size:36px;">Bobbi Tarkany</p>
+<h1 align="center" style="font-family:'Kalam',cursive;font-weight:400;font-style: normal;font-size:36px;">Bobbi Tarkany</h1>
 
 <!-- <p align="center" style="font-family:'Kalam',cursive;font-weight:300;font-style: normal;font-size:26px;">Full Stack Web Developer, React Engineer, and Data Enthusiast 🔭</p> -->
 
