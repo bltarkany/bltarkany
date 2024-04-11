@@ -1,4 +1,8 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://kit.fontawesome.com/92729ea461.css" crossorigin="anonymous">
+
+## Thanks for Stopping By 👋
+
+# I'm Bobbi
 
 <!--
 **bltarkany/bltarkany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
